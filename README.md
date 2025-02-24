@@ -1,6 +1,6 @@
 # MyBlog
 
-a personal blog site based on Jsp/Servlet - 基于jsp/servlet的个人博客网站
+a personal blog updated by Stephen site based on Jsp/Servlet - 基于jsp/servlet的个人博客网站
 
 ## 简介
 
